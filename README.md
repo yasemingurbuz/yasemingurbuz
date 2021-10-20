@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yasemin</h1>
-- 🔭 I’m currently working on Java,Selenium
-- 🌱 I’m currently learning JavaScript **Patika.Dev**
-- 💬 Ask me about anything
+<p>- 🔭 I’m currently working on Java,Selenium</p>
+<p>- 🌱 I’m currently learning JavaScript **Patika.Dev**</p>
+<p>- 💬 Ask me about anything</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
