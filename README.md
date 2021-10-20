@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yasemin</h1>
+<h2 align="center">Highly motivated and willing on QA Engineering.</h2>
+
 <p>- 🔭 I’m currently working on Java,Selenium</p>
 <p>- 🌱 I’m currently learning JavaScript **Patika.Dev**</p>
 <p>- 💬 Ask me about anything</p>
