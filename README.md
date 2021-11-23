@@ -16,7 +16,7 @@
 
 <h2> My Projects</h2>
 
-[Trendyol Selenium Test Project](https://github.com/yasemingurbuz/Trendyol.comSeleniumWebAutomation)
+[Trendyol Selenium Web Automation Test Project](https://github.com/yasemingurbuz/Trendyol.comSeleniumWebAutomation)
 
 https://user-images.githubusercontent.com/84576138/143025472-7abe88b4-288a-4ccc-a8bc-81d0f9766127.mp4
 
