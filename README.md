@@ -16,7 +16,7 @@
 
 <h2> My Project</h2>
 
-Trendyol Selenium Test Project
+[Trendyol Selenium Test Project](https://github.com/yasemingurbuz/Trendyol.comSeleniumWebAutomation)
 
 https://user-images.githubusercontent.com/84576138/143023967-4dd03b73-1714-4f64-b197-fa83b3ff1348.mp4
-<h3 href = "https://github.com/yasemingurbuz/Trendyol.comSeleniumWebAutomation">Repo</h3>
+
