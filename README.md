@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yasemin</h1>
-<h2 align="center">Highly motivated and willing on QA Engineering.</h2>
+<h2 align="center">Highly motivated and willing on Data Science.</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yasemingurbuz&label=Profile%20views&color=0e75b6&style=flat" alt="yasemingurbuz" /> </p>
 
-<p>- 🔭 I’m currently working on Java,Selenium</p>
-<p>- 🌱 I’m currently learning JavaScript **Patika.Dev**</p>
+<p>- 🔭 I’m currently working on Python</p>
+<p>- 🌱 I’m currently learning Python **Patika.Dev**</p>
 <p>- 💬 Ask me about anything</p>
 
 <h3 align="left">Connect with me:</h3>
