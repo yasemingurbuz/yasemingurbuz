@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yasemin</h1>
-<h2 align="center">Highly motivated and willing on Data Science.</h2>
+<h2 align="center">Highly motivated and willing on QA Engineering.</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yasemingurbuz&label=Profile%20views&color=0e75b6&style=flat" alt="yasemingurbuz" /> </p>
 
 <p>- 🔭 I’m currently working on Python</p>
