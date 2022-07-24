@@ -2,8 +2,8 @@
 <h2 align="center">Highly motivated and willing on QA Engineering.</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yasemingurbuz&label=Profile%20views&color=0e75b6&style=flat" alt="yasemingurbuz" /> </p>
 
-<p>- 🔭 I’m currently working on Java,Python,Selenium</p>
-<p>- 🌱 I’m currently learning Python **Patika.Dev**</p>
+<p>- 🔭 I’m currently working on [Pegasus Airlines](https://www.flypgs.com/) via [Testinium](https://testinium.com/)</p>
+<p>- 🌱 I’m currently learning Java, Selenium</p>
 <p>- 💬 Ask me about anything</p>
 
 <h3 align="left">Connect with me:</h3>
@@ -18,8 +18,7 @@
 ## My Projects:
 [Trendyol Selenium Web Automation](https://github.com/yasemingurbuz/TrendyolSeleniumWebAutomation)</br>
 [Selenium Web Driver with Java](https://github.com/yasemingurbuz/SeleniumWebDriverwithJava)</br>
-[Covid-19_Analysis](https://github.com/yasemingurbuz/Covid-19_Analysis)</br>
-[UK_Traffic_Accidents](https://github.com/yasemingurbuz/UK_Traffic_Accidents)</br>
+
 
 
 
