@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yasemingurbuz&label=Profile%20views&color=0e75b6&style=flat" alt="yasemingurbuz" /> </p>
 
 <p>- 🔭 I’m currently working on <a href="https://www.flypgs.com/">Pegasus Airlines</a> via <a href="https://testinium.com/">Testinium</a></p>
-<p>- 🌱 I’m currently learning Java, Selenium</p>
+<p>- 🌱 I’m currently learning Cypress,Java, Selenium</p>
 <p>- 💬 Ask me about anything</p>
 
 <h3 align="left">Connect with me:</h3>
