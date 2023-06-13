@@ -2,7 +2,7 @@
 <h2 align="center">Highly motivated and willing on QA Engineering.</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yasemingurbuz&label=Profile%20views&color=0e75b6&style=flat" alt="yasemingurbuz" /> </p>
 
-<p>- 🔭 I’m currently working on <a href="[https://www.flypgs.com/](https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwiR2dmY3b__AhVqgIMHHdkpDCcYABAAGgJlZg&ohost=www.google.com&cid=CAESa-D2UFzBDslG360D59c5iyDMgRSUl-rYQ1PD3UJp7zcWcut0T5Bu2CTLQ0KewlNwWaFmRrHKXa4uj3br2WcElR-Z0gVIlY2uoYDTvKywVzKui7wgskCRlXm5uyjlkfdKqjZL4TmBlU21rptn&sig=AOD64_1eWqEysQpesh871O8GEHiso40Vwg&q&adurl&ved=2ahUKEwiF3dKY3b__AhXVRPEDHS8lDM4Q0Qx6BAgJEAE)">Nesine.com</a></p>
+<p>- 🔭 I’m currently working on <a href="[https://www.nesine.com/iddaa/futbol?et=1&ocg=MS-2%2C5&gt=Pop%C3%BCler]"> Nesine.com</a></p>
 <p>- 🌱 I’m currently learning Cypress,Java, Selenium</p>
 <p>- 💬 Ask me about anything</p>
 
