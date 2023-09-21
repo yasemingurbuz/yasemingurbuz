@@ -8,7 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/yaseming%C3%BCrb%C3%BCz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yaseming%c3%bcrb%c3%bcz/" height="30" width="40" /></a>
+<a href="[https://www.linkedin.com/in/yaseming%C3%BCrb%C3%BCz/](https://www.linkedin.com/in/yasemingurbuz/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yaseming%c3%bcrb%c3%bcz/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/yasemingurbuz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/yasemingurbuz" height="30" width="40" /></a>
 </p>
 
